@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\abcd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ADD57D-9502-43F3-B7D5-62F1A5B087D8}|abcd.vcxproj|C:\\Users\\PC\\source\\repos\\abcd\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5ADD57D-9502-43F3-B7D5-62F1A5B087D8}|abcd.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\abcd\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\abcd\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAHECAAAAAAAAAAAQwH8CAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T06:52:48.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
