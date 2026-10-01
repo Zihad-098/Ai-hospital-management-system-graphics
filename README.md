@@ -1,0 +1,1 @@
+# Ai-hospital-management-system-graphics
