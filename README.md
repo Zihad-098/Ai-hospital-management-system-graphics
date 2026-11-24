@@ -145,8 +145,7 @@ g++ main.cpp -o hospital -lGL -lGLU -lglut
 
 | Entrance | Emergency Department |
 |----------|----------------------|
-| ![Entrance](<img width="478" height="277" alt="image" src="https://github.com/user-attachments/assets/61f566b8-7e4b-4a12-8799-f670edb8c0bd" />
-) | ![ER](<img width="624" height="439" alt="image" src="https://github.com/user-attachments/assets/c51044aa-ce5d-4f69-b7d0-3325509cfa87" />
+| ![Entrance](<img width="478" height="277" alt="image" src="https://github.com/user-attachments/assets/61f566b8-7e4b-4a12-8799-f670edb8c0bd" />) | ![ER](<img width="624" height="439" alt="image" src="https://github.com/user-attachments/assets/c51044aa-ce5d-4f69-b7d0-3325509cfa87" />
 ) |
 
 | OPD | Patient Cabins |
